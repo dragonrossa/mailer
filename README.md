@@ -13,3 +13,9 @@ Then Save and Close
 ...
 Hit Node test1.js
 When its done Hit CTRL + C
+...
+Best test are in Visual Studio Code with terminal fo NodeJS
+...
+And after that push it on server
+Also its not working for the paths for attachements
+
